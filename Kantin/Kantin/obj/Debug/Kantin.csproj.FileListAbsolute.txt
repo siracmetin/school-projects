@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Kantin\bin\Debug\Kantin.exe.config
+C:\Users\HP\source\repos\Kantin\bin\Debug\Kantin.exe
+C:\Users\HP\source\repos\Kantin\bin\Debug\Kantin.pdb
+C:\Users\HP\source\repos\Kantin\obj\Debug\Kantin.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Kantin\obj\Debug\Kantin.Form1.resources
+C:\Users\HP\source\repos\Kantin\obj\Debug\Kantin.Form2.resources
+C:\Users\HP\source\repos\Kantin\obj\Debug\Kantin.Properties.Resources.resources
+C:\Users\HP\source\repos\Kantin\obj\Debug\Kantin.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Kantin\obj\Debug\Kantin.exe
+C:\Users\HP\source\repos\Kantin\obj\Debug\Kantin.pdb
+C:\Users\HP\source\repos\Kantin\obj\Debug\Kantin.Form3.resources
+C:\Users\HP\source\repos\Kantin\obj\Debug\Kantin.Form4.resources
+C:\Users\HP\source\repos\Kantin\obj\Debug\Kantin.Form5.resources
+C:\Users\HP\source\repos\Kantin\obj\Debug\Kantin.Form6.resources
